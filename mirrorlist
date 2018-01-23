@@ -1,0 +1,6 @@
+##
+## Ress Linux repository mirrorlist
+##
+
+## Lithuania
+Server = https://repo.resslinux.tk/$repo/$arch
